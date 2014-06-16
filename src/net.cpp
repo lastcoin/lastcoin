@@ -1195,7 +1195,7 @@ void MapPort(bool)
 static const char *strMainNetDNSSeed[][2] = {
     {"lastcoin.tk", "54.201.117.152"}, //Seed node
     {"lastpool.tk", "162.243.128.168"},
-    {"lastnode.tk", "162.243.156.252"}
+    {"lastnode.tk", "162.243.156.252"},
 {NULL, NULL},
 };
 
